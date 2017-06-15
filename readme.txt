@@ -9,4 +9,5 @@ first change
 second change
 thress change
 fourchange
-Creating a new branch is quick & simpl
+Creating a new branch is quick AND simple.
+
