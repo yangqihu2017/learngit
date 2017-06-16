@@ -10,5 +10,4 @@ second change
 thress change
 fourchange
 Creating a new branch is quick AND simple.
-add merge
-
+add a merge,this is right!
