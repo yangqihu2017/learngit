@@ -11,3 +11,4 @@ thress change
 fourchange
 Creating a new branch is quick AND simple.
 add a merge,this is right!
+add /usr/bin/env
